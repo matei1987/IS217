@@ -1,0 +1,50 @@
+Matei Gheorghiu 
+IS-217
+
+JS Programs 
+
+1. FItText - http://fittextjs.com/
+
+	This is a jQuery-based plugin that is used often in responsive web
+	design. The code adjusts text size based on the viewport window.
+	Without it, you would have to write a ton of media queries to adjust
+	the text size based on the device that it’s being delivered to. 
+
+	2. SmoothScroll - https://github.com/kswedberg/jquery-smooth-scroll
+
+		This is another jQuery-based plugin that is used to animate
+		the page scrolling up or down when moving to different points
+		on a site. It adds a more modern feel to the website and is a
+		fairly simple program. With some research, I think I could
+		write something like this. 
+
+		3. TextboxList -
+		http://devthought.com/wp-content/projects/mootools/textboxlist/Demo/
+
+			This is a JS program that turns textboxes into a
+			widget that enables better visual representations of
+			search tags. It looks similar to modern phone designs
+			and enables people to remove tags they are searching
+			for. It also comes with an autocomplete function. 
+
+			4. jQuery Calendar  -
+			http://designmodo.com/demo/calendarjquerycss3/
+
+				This is a fairly simple, but really nice
+				looking Android Ice Cream Sandwich-style
+				calendar. The CSS handles the look of the
+				calendar and the jQuery just enables the class
+				for the selected date and removes it from the
+				previous selection. 
+
+				5. 	jQuery.Hotkeys -
+				https://github.com/jeresig/jquery.hotkeys
+
+					This jQuery script allows used to
+					navigate the menu tree or site with
+					their keyboard. This is really great
+					for modern presentation style websites
+					and I can see this being really useful
+					with jQuery custom scroll paths. 
+
+
